@@ -11,8 +11,20 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 2,
-        "whenLastDataSave": "2018-09-17T16:28:05.219Z"
+        "ctDataSaves": 3,
+        "whenLastDataSave": "2018-09-17T16:28:07.219Z"
     },
-    "posts": {}
+    "posts": {
+        "2018": {
+            "09": {
+                "17": {
+                    "162805": {
+                        "title": "My first written post of the day",
+                        "path": "blog/posts/2018/09/17/162805.md",
+                        "created": "2018-09-17T16:28:05.150Z"
+                    }
+                }
+            }
+        }
+    }
 }
