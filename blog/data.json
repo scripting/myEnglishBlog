@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 13,
-        "whenLastDataSave": "2018-09-18T15:33:28.326Z"
+        "ctDataSaves": 14,
+        "whenLastDataSave": "2018-09-18T15:35:35.042Z"
     },
     "posts": {
         "2018": {
@@ -52,6 +52,12 @@
                         "created": "2018-09-18T15:29:10.411Z",
                         "text": "<p>No mind your nationality, you have got the identity of an African.</p><p>So don't care where you come from, as long as you're a black man, you're an African.</p>",
                         "path": "blog/posts/2018/09/18/153322.json"
+                    },
+                    "undefined": {
+                        "title": "If you come from Brixton...",
+                        "created": "2018-09-18T15:29:10.411Z",
+                        "text": "<p>Don't care where you come from</p><p>As long as you're a black man, you're an African</p><p>No mind your nationality</p><p><span>You have got the identity of an African</span></p>",
+                        "path": "blog/posts/2018/09/18/152910.json"
                     }
                 }
             }
