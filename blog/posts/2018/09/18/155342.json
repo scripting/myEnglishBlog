@@ -1,6 +1,6 @@
 {
     "title": "Piecing it together",
     "created": "2018-09-18T15:53:42.763Z",
-    "text": "",
+    "text": "<p>Okay we have posts in JSON objects now. The Markdown text is one of the elements in the struct. This is following the pattern in all the nodeStorage apps I've created. That's kind of what this is, nodeStorage but for GitHub as the backend. When the API is complete it'll be a subset of nodeStorage. How about that.&nbsp;</p>",
     "path": "blog/posts/2018/09/18/155342.json"
 }
