@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "Kavanaugh will not be confirmed",
+    "lastPostTitle": "Piecing it together",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 19,
-        "whenLastDataSave": "2018-09-18T15:39:44.290Z"
+        "ctDataSaves": 21,
+        "whenLastDataSave": "2018-09-18T15:53:44.259Z"
     },
     "posts": {
         "2018": {
@@ -58,6 +58,12 @@
                         "created": "2018-09-18T15:39:39.038Z",
                         "text": "",
                         "path": "blog/posts/2018/09/18/153939.json"
+                    },
+                    "155342": {
+                        "title": "Piecing it together",
+                        "created": "2018-09-18T15:53:42.763Z",
+                        "text": "",
+                        "path": "blog/posts/2018/09/18/155342.json"
                     },
                     "undefined": {
                         "title": "Kavanaugh will not be confirmed",
