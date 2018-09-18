@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 21,
-        "whenLastDataSave": "2018-09-18T15:53:44.259Z"
+        "ctDataSaves": 22,
+        "whenLastDataSave": "2018-09-18T15:55:39.252Z"
     },
     "posts": {
         "2018": {
@@ -66,10 +66,10 @@
                         "path": "blog/posts/2018/09/18/155342.json"
                     },
                     "undefined": {
-                        "title": "Kavanaugh will not be confirmed",
-                        "created": "2018-09-18T15:39:39.038Z",
-                        "text": "<p>My own opinion. Kavanaugh will not be confirmed. I expect Christine Ford to be a compelling witness. Reporters will interview classmates of hers and of Kavanaugh's. Some Repubs on the Judiciary Committee understand enough about the issue to be far more sensitive than they were with Anita Hill. But some will not, and this will spark rage at Republicans including from within their own base. A lot of women vote Republican. There's a decent chance a handful of Repub senators will quit the party, or even become Democrats. As I said yesterday, governing has become a burden for the Repubs. They know how to bully, they know how to obstruct, but this is far more complex. They won't be able to hold their coalition together. Think of it as an intra-party wedge issue for the Repubs.</p>",
-                        "path": "blog/posts/2018/09/18/153939.json"
+                        "title": "Piecing it together",
+                        "created": "2018-09-18T15:53:42.763Z",
+                        "text": "<p>Okay we have posts in JSON objects now. The Markdown text is one of the elements in the struct. This is following the pattern in all the nodeStorage apps I've created. That's kind of what this is, nodeStorage but for GitHub as the backend. When the API is complete it'll be a subset of nodeStorage. How about that.&nbsp;</p>",
+                        "path": "blog/posts/2018/09/18/155342.json"
                     }
                 }
             }
