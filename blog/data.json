@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "Don't care where you come from...",
+    "lastPostTitle": "If you come from Brixton...",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 9,
-        "whenLastDataSave": "2018-09-18T15:28:06.340Z"
+        "ctDataSaves": 10,
+        "whenLastDataSave": "2018-09-18T15:29:11.074Z"
     },
     "posts": {
         "2018": {
