@@ -2,6 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
+    "lastPostTitle": "dark star crashing",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -10,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 1,
-        "whenLastDataSave": "2018-09-18T16:45:01.756Z"
+        "ctDataSaves": 2,
+        "whenLastDataSave": "2018-09-18T16:46:28.404Z"
     },
     "posts": {
         "subs": []
