@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "Trying again...",
+    "lastPostTitle": "If you are a black man...",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 6,
-        "whenLastDataSave": "2018-09-17T16:38:34.656Z"
+        "ctDataSaves": 8,
+        "whenLastDataSave": "2018-09-18T15:27:29.965Z"
     },
     "posts": {
         "2018": {
@@ -27,6 +27,13 @@
                         "title": "Trying again...",
                         "path": "blog/posts/2018/09/17/163833.md",
                         "created": "2018-09-17T16:38:33.260Z"
+                    }
+                },
+                "18": {
+                    "152728": {
+                        "title": "If you are a black man...",
+                        "path": "blog/posts/2018/09/18/152728.md",
+                        "created": "2018-09-18T15:27:28.402Z"
                     }
                 }
             }
