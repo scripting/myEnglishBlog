@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "Vietnam",
+    "lastPostTitle": "New York",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 16,
-        "whenLastDataSave": "2018-09-19T13:55:59.065Z"
+        "ctDataSaves": 18,
+        "whenLastDataSave": "2018-09-19T13:56:12.067Z"
     },
     "posts": {
         "subs": [
@@ -25,6 +25,12 @@
                             {
                                 "text": "19",
                                 "subs": [
+                                    {
+                                        "text": "New York",
+                                        "id": "135610",
+                                        "created": "2018-09-19T13:56:10.774Z",
+                                        "path": "blog/posts/2018/09/19/135610.json"
+                                    },
                                     {
                                         "text": "Canada",
                                         "id": "135507",
