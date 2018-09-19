@@ -55,25 +55,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "text": "NaN",
-                "subs": [
-                    {
-                        "text": "NaN",
-                        "subs": [
-                            {
-                                "text": "NaN",
-                                "subs": [
-                                    {
-                                        "id": "131929",
-                                        "path": "blog/posts/2018/09/19/131929.json"
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
             }
         ]
     }
