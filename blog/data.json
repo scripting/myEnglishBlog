@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "argentina",
+    "lastPostTitle": "Cuba",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 38,
-        "whenLastDataSave": "2018-09-19T15:46:39.282Z"
+        "ctDataSaves": 39,
+        "whenLastDataSave": "2018-09-19T15:53:44.266Z"
     },
     "posts": {
         "subs": [
