@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "don't care where you come from...",
+    "lastPostTitle": "forever on amazon",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -12,7 +12,7 @@
     "language": "en-us",
     "stats": {
         "ctDataSaves": 12,
-        "whenLastDataSave": "2018-09-19T13:18:14.250Z"
+        "whenLastDataSave": "2018-09-19T13:18:34.306Z"
     },
     "posts": {
         "subs": [
@@ -33,10 +33,11 @@
                                         "id": "170344"
                                     },
                                     {
-                                        "text": "don't care where you come from...",
-                                        "id": "172113",
+                                        "title": "don't care where you come from...",
                                         "created": "2018-09-18T17:21:13.797Z",
-                                        "path": "blog/posts/2018/09/18/172113.json"
+                                        "text": "<p>As long as you're a black man, you're an african.</p>",
+                                        "path": "blog/posts/2018/09/18/172113.json",
+                                        "id": "172113"
                                     }
                                 ]
                             }
