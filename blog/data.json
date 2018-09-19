@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "Cuba",
+    "lastPostTitle": "Hooray for Hollywood!",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 47,
-        "whenLastDataSave": "2018-09-19T16:46:20.611Z"
+        "ctDataSaves": 48,
+        "whenLastDataSave": "2018-09-19T16:46:49.350Z"
     },
     "posts": {
         "subs": [
@@ -25,6 +25,13 @@
                             {
                                 "text": "19",
                                 "subs": [
+                                    {
+                                        "title": "Hooray for Hollywood!",
+                                        "id": "164648",
+                                        "created": "2018-09-19T16:46:48.058Z",
+                                        "path": "blog/posts/2018/09/19/164648.json",
+                                        "text": "<a class=\"aOpenGitHubDoc  aPostBeingEdited \" onclick=\"editBlogPost ('blog/posts/2018/09/19/164648.json')\">Hooray for Hollywood!</a>"
+                                    },
                                     {
                                         "title": "Cuba is hot hot hot",
                                         "id": "155343",
@@ -40,11 +47,11 @@
                                         "text": "<a class=\"aOpenGitHubDoc \" onclick=\"editBlogPost ('blog/posts/2018/09/19/151757.json')\">argentina</a>"
                                     },
                                     {
-                                        "title": "Missouri",
+                                        "title": "missouri",
                                         "id": "151254",
                                         "created": "2018-09-19T15:12:54.381Z",
                                         "path": "blog/posts/2018/09/19/151254.json",
-                                        "text": "<a class=\"aOpenGitHubDoc  aPostBeingEdited \" onclick=\"editBlogPost ('blog/posts/2018/09/19/151254.json')\">Missouri</a>"
+                                        "text": "<a class=\"aOpenGitHubDoc \" onclick=\"editBlogPost ('blog/posts/2018/09/19/151254.json')\">missouri</a>"
                                     },
                                     {
                                         "title": "portland",
