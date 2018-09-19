@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 32,
-        "whenLastDataSave": "2018-09-19T15:17:58.626Z"
+        "ctDataSaves": 33,
+        "whenLastDataSave": "2018-09-19T15:28:11.602Z"
     },
     "posts": {
         "subs": [
@@ -29,8 +29,7 @@
                                         "title": "argentina",
                                         "id": "151757",
                                         "created": "2018-09-19T15:17:57.537Z",
-                                        "path": "blog/posts/2018/09/19/151757.json",
-                                        "text": "<a class=\"aOpenGitHubDoc\" onclick=\"editBlogPost ('blog/posts/2018/09/19/151757.json')\">argentina</a>"
+                                        "path": "blog/posts/2018/09/19/151757.json"
                                     },
                                     {
                                         "title": "missouri",
