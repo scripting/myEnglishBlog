@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 11,
-        "whenLastDataSave": "2018-09-18T17:23:32.331Z"
+        "ctDataSaves": 12,
+        "whenLastDataSave": "2018-09-19T13:18:14.250Z"
     },
     "posts": {
         "subs": [
@@ -33,11 +33,10 @@
                                         "id": "170344"
                                     },
                                     {
-                                        "title": "don't care where you come from...",
+                                        "text": "don't care where you come from...",
+                                        "id": "172113",
                                         "created": "2018-09-18T17:21:13.797Z",
-                                        "text": "<p>As long as you're a black man, you're an african.</p>",
-                                        "path": "blog/posts/2018/09/18/172113.json",
-                                        "id": "172113"
+                                        "path": "blog/posts/2018/09/18/172113.json"
                                     }
                                 ]
                             }
