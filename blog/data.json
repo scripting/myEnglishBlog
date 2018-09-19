@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 55,
-        "whenLastDataSave": "2018-09-19T21:24:21.076Z"
+        "ctDataSaves": 56,
+        "whenLastDataSave": "2018-09-19T21:24:22.076Z"
     },
     "posts": {
         "subs": [
@@ -26,11 +26,11 @@
                                 "text": "19",
                                 "subs": [
                                     {
-                                        "title": "Hooray for Hollywood!",
+                                        "title": "Hooray for Hollywood!!!",
                                         "id": "164648",
                                         "created": "2018-09-19T16:46:48.058Z",
                                         "path": "blog/posts/2018/09/19/164648.json",
-                                        "text": "<a class=\"aOpenGitHubDoc  aPostBeingEdited \" onclick=\"editBlogPost ('blog/posts/2018/09/19/164648.json')\">Hooray for Hollywood!</a>"
+                                        "text": "<a class=\"aOpenGitHubDoc  aPostBeingEdited \" onclick=\"editBlogPost ('blog/posts/2018/09/19/164648.json')\">Hooray for Hollywood!!!</a>"
                                     },
                                     {
                                         "title": "Cuba is hot hot hot",
