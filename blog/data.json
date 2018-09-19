@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 46,
-        "whenLastDataSave": "2018-09-19T16:18:53.946Z"
+        "ctDataSaves": 47,
+        "whenLastDataSave": "2018-09-19T16:19:08.547Z"
     },
     "posts": {
         "subs": [
@@ -26,11 +26,11 @@
                                 "text": "19",
                                 "subs": [
                                     {
-                                        "title": "Cuba is hot hot hot",
+                                        "title": "Cuba is hot",
                                         "id": "155343",
                                         "created": "2018-09-19T15:53:43.682Z",
                                         "path": "blog/posts/2018/09/19/155343.json",
-                                        "text": "<a class=\"aOpenGitHubDoc\" onclick=\"editBlogPost ('blog/posts/2018/09/19/155343.json')\">Cuba is hot hot hot</a>"
+                                        "text": "<a class=\"aOpenGitHubDoc\" onclick=\"editBlogPost ('blog/posts/2018/09/19/155343.json')\">Cuba is hot</a>"
                                     },
                                     {
                                         "title": "argentina",
