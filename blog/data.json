@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 39,
-        "whenLastDataSave": "2018-09-19T15:53:44.266Z"
+        "ctDataSaves": 40,
+        "whenLastDataSave": "2018-09-19T15:53:45.263Z"
     },
     "posts": {
         "subs": [
@@ -26,10 +26,18 @@
                                 "text": "19",
                                 "subs": [
                                     {
+                                        "title": "Cuba",
+                                        "id": "155343",
+                                        "created": "2018-09-19T15:53:43.682Z",
+                                        "path": "blog/posts/2018/09/19/155343.json",
+                                        "text": "<a class=\"aOpenGitHubDoc\" onclick=\"editBlogPost ('blog/posts/2018/09/19/155343.json')\">Cuba</a>"
+                                    },
+                                    {
                                         "title": "argentina",
                                         "id": "151757",
                                         "created": "2018-09-19T15:17:57.537Z",
-                                        "path": "blog/posts/2018/09/19/151757.json"
+                                        "path": "blog/posts/2018/09/19/151757.json",
+                                        "text": "<a class=\"aOpenGitHubDoc\" onclick=\"editBlogPost ('blog/posts/2018/09/19/151757.json')\">argentina</a>"
                                     },
                                     {
                                         "title": "missouri",
