@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 50,
-        "whenLastDataSave": "2018-09-19T16:47:39.348Z"
+        "ctDataSaves": 51,
+        "whenLastDataSave": "2018-09-19T16:47:54.350Z"
     },
     "posts": {
         "subs": [
@@ -30,14 +30,14 @@
                                         "id": "164648",
                                         "created": "2018-09-19T16:46:48.058Z",
                                         "path": "blog/posts/2018/09/19/164648.json",
-                                        "text": "<a class=\"aOpenGitHubDoc \" onclick=\"editBlogPost ('blog/posts/2018/09/19/164648.json')\">Hooray for Hollywood!</a>"
+                                        "text": "<a class=\"aOpenGitHubDoc  aPostBeingEdited \" onclick=\"editBlogPost ('blog/posts/2018/09/19/164648.json')\">Hooray for Hollywood!</a>"
                                     },
                                     {
                                         "title": "Cuba is hot hot hot",
                                         "id": "155343",
                                         "created": "2018-09-19T15:53:43.682Z",
                                         "path": "blog/posts/2018/09/19/155343.json",
-                                        "text": "<a class=\"aOpenGitHubDoc  aPostBeingEdited \" onclick=\"editBlogPost ('blog/posts/2018/09/19/155343.json')\">Cuba is hot hot hot</a>"
+                                        "text": "<a class=\"aOpenGitHubDoc \" onclick=\"editBlogPost ('blog/posts/2018/09/19/155343.json')\">Cuba is hot hot hot</a>"
                                     },
                                     {
                                         "title": "argentina",
