@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "Canada",
+    "lastPostTitle": "Vietnam",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 17,
-        "whenLastDataSave": "2018-09-19T13:55:09.212Z"
+        "ctDataSaves": 16,
+        "whenLastDataSave": "2018-09-19T13:55:59.065Z"
     },
     "posts": {
         "subs": [
