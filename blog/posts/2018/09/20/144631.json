@@ -1,7 +1,9 @@
 {
     "title": "Canada",
     "created": "2018-09-20T14:46:31.257Z",
-    "text": "<p>Toronto</p><p>Montreal</p><p>Vancouver</p><p>Ottowa</p><p>Calgary</p>",
+    "text": "<p>Toronto</p><p>Montreal</p><p>Vancouver</p><p>Ottowa</p><p>Calgary</p><p>Winnepeg</p>",
     "path": "blog/posts/2018/09/20/144631.json",
-    "id": "144631"
+    "id": "144631",
+    "ctUpdates": 1,
+    "modified": "2018-09-20T18:59:47.991Z"
 }
