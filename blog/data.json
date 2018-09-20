@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "Hey hey we're the Who",
+    "lastPostTitle": "Doctor Dre",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 67,
-        "whenLastDataSave": "2018-09-20T14:07:49.580Z"
+        "ctDataSaves": 68,
+        "whenLastDataSave": "2018-09-20T14:09:05.672Z"
     },
     "posts": {
         "subs": [
