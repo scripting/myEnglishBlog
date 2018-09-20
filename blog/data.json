@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 8,
-        "whenLastDataSave": "2018-09-20T14:43:41.249Z"
+        "ctDataSaves": 9,
+        "whenLastDataSave": "2018-09-20T14:43:42.252Z"
     },
     "posts": {
         "subs": [
@@ -20,11 +20,21 @@
                 "text": "2018",
                 "subs": [
                     {
+                        "text": "undefined",
+                        "subs": []
+                    },
+                    {
                         "text": "09",
                         "subs": [
                             {
                                 "text": "20",
                                 "subs": [
+                                    {
+                                        "title": "Miami",
+                                        "id": "144340",
+                                        "created": "2018-09-20T14:43:40.472Z",
+                                        "path": "blog/posts/2018/09/20/144340.json"
+                                    },
                                     {
                                         "title": "Canada",
                                         "id": "144047",
