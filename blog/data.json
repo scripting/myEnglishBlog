@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "Trolls are funny",
+    "lastPostTitle": "Trump is a dick",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 38,
-        "whenLastDataSave": "2018-09-21T14:51:49.685Z"
+        "ctDataSaves": 39,
+        "whenLastDataSave": "2018-09-21T14:52:55.289Z"
     },
     "posts": {
         "subs": [
@@ -22,11 +22,9 @@
                     {
                         "text": "September",
                         "subs": [
-                            
                             {
                                 "text": "20",
                                 "subs": [
-                                    
                                     {
                                         "title": "Welcome to Symantec",
                                         "id": "231836",
