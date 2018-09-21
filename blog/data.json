@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "We're now using YAML for frontmatter",
+    "lastPostTitle": "Saving just failed to do anything",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 13,
-        "whenLastDataSave": "2018-09-21T18:47:43.687Z"
+        "ctDataSaves": 15,
+        "whenLastDataSave": "2018-09-21T18:48:08.686Z"
     },
     "posts": {
         "subs": [
@@ -25,6 +25,12 @@
                             {
                                 "text": "21",
                                 "subs": [
+                                    {
+                                        "title": "Saving just failed to do anything",
+                                        "id": "184805",
+                                        "created": "2018-09-21T18:48:05.197Z",
+                                        "path": "blog/posts/2018/09/21/184805.md"
+                                    },
                                     {
                                         "title": "We're now using YAML for frontmatter",
                                         "id": "183342",
