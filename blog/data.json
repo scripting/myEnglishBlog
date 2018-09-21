@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "California",
+    "lastPostTitle": "Oregon",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 30,
-        "whenLastDataSave": "2018-09-21T23:31:59.529Z"
+        "ctDataSaves": 32,
+        "whenLastDataSave": "2018-09-21T23:32:45.987Z"
     },
     "posts": {
         "subs": [
@@ -25,6 +25,12 @@
                             {
                                 "text": "21",
                                 "subs": [
+                                    {
+                                        "title": "Oregon",
+                                        "id": "233244",
+                                        "created": "2018-09-21T23:32:44.506Z",
+                                        "path": "blog/posts/2018/09/21/233244.md"
+                                    },
                                     {
                                         "title": "California",
                                         "id": "233159",
