@@ -3,8 +3,8 @@ title: We're now using YAML for frontmatter
 created: '2018-09-21T18:33:42.333Z'
 path: blog/posts/2018/09/21/183342.json
 id: '183342'
-ctUpdates: 5
-modified: '2018-09-21T18:46:24.403Z'
+ctUpdates: 6
+modified: '2018-09-21T18:46:45.037Z'
 ---
 Previously I was storing posts in JSON.
 
