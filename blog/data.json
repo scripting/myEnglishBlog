@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "Saving just failed to do anything",
+    "lastPostTitle": "Hello there",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 19,
-        "whenLastDataSave": "2018-09-21T23:19:00.579Z"
+        "ctDataSaves": 21,
+        "whenLastDataSave": "2018-09-21T23:24:39.430Z"
     },
     "posts": {
         "subs": [
@@ -25,6 +25,12 @@
                             {
                                 "text": "21",
                                 "subs": [
+                                    {
+                                        "title": "Hello there",
+                                        "id": "232437",
+                                        "created": "2018-09-21T23:24:37.082Z",
+                                        "path": "blog/posts/2018/09/21/232437.md"
+                                    },
                                     {
                                         "title": "Saving just failed to do anything",
                                         "id": "184805",
