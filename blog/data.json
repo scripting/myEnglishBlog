@@ -22,19 +22,11 @@
                     {
                         "text": "September",
                         "subs": [
-                            {
-                                "text": "21",
-                                "subs": []
-                            },
+                            
                             {
                                 "text": "20",
                                 "subs": [
-                                    {
-                                        "title": "Trolls are funny",
-                                        "id": "144741",
-                                        "created": "2018-09-21T14:47:32.807Z",
-                                        "path": "blog/posts/2018/09/21/144741.json"
-                                    },
+                                    
                                     {
                                         "title": "Welcome to Symantec",
                                         "id": "231836",
