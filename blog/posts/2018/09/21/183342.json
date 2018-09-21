@@ -3,8 +3,8 @@ title: We're now using YAML for frontmatter
 created: '2018-09-21T18:33:42.333Z'
 path: blog/posts/2018/09/21/183342.json
 id: '183342'
-ctUpdates: 11
-modified: '2018-09-21T18:47:41.461Z'
+ctUpdates: 12
+modified: '2018-09-21T23:18:59.283Z'
 ---
 Previously I was storing posts in JSON.
 
@@ -21,3 +21,5 @@ But we don't do that. ;-)
 That's the benediction I have to give whenever I see a missed opportunity. When we did this functionality, in the mid-90s, we most definitely looked at prior art, the way C handled #includes and other # directives. We just copied them.
 
 Anything with a # at the beginning of a line was what they would call frontmatter.
+
+Let's see if something happens now.
