@@ -1,9 +1,9 @@
-{
-    "title": "Africans is cool",
-    "created": "2018-09-21T15:37:50.021Z",
-    "text": "<p>That took a long time.</p><p>Work on the staging of stuff.&nbsp;</p><p>Error reporting -- esp exceeding rate-limit.&nbsp;</p><p>Serving app.</p>",
-    "path": "blog/posts/2018/09/21/153750.json",
-    "id": "153750",
-    "ctUpdates": 2,
-    "modified": "2018-09-21T15:38:40.606Z"
-}
+---
+title: Africans is cool
+created: '2018-09-21T15:37:50.021Z'
+path: blog/posts/2018/09/21/153750.json
+id: '153750'
+ctUpdates: 6
+modified: '2018-09-21T18:24:52.814Z'
+---
+<p>That took a long time.</p><p>Work on the staging of stuff.&nbsp;</p><p>Error reporting -- esp exceeding rate-limit.&nbsp;</p><p>Serving app.</p><p>Don't mind your complexion....</p>
