@@ -3,6 +3,7 @@ title: We're now using YAML for frontmatter
 created: '2018-09-21T18:33:42.333Z'
 path: blog/posts/2018/09/21/183342.json
 id: '183342'
-ctUpdates: 1
-modified: '2018-09-21T18:33:42.333Z'
+ctUpdates: 2
+modified: '2018-09-21T18:36:16.906Z'
 ---
+<p>Previously I was storing posts in JSON.</p><p>Now I'm going with the flow and using YAML.</p><p>Someday some archeologist will be digging around in the remains of the software world we built, and wonder why there are so many different solutions to the same problem, encoding binary info in text, and the answer will be that people were staring at their screens and not even looking up long enough to find out if anyone had ever done what they were doing before. It's in that moment, of not looking, that we end up with cracks in the structure of the world we're making. It would make so much more sense to just have a look before leaping.</p><p>But we don't do that. ;-)</p>
