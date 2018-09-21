@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 6,
-        "whenLastDataSave": "2018-09-21T18:42:40.048Z"
+        "ctDataSaves": 7,
+        "whenLastDataSave": "2018-09-21T18:46:25.691Z"
     },
     "posts": {
         "subs": [
@@ -29,7 +29,7 @@
                                         "title": "We're now using YAML for frontmatter",
                                         "id": "183342",
                                         "created": "2018-09-21T18:33:42.333Z",
-                                        "path": "blog/posts/2018/09/21/183342.md"
+                                        "path": "blog/posts/2018/09/21/183342.json"
                                     }
                                 ]
                             }
