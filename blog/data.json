@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "Trump is a dick",
+    "lastPostTitle": "Africans is cool",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 43,
-        "whenLastDataSave": "2018-09-21T14:54:28.872Z"
+        "ctDataSaves": 44,
+        "whenLastDataSave": "2018-09-21T15:37:50.459Z"
     },
     "posts": {
         "subs": [
