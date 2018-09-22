@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 42,
-        "whenLastDataSave": "2018-09-22T17:49:22.409Z"
+        "ctDataSaves": 43,
+        "whenLastDataSave": "2018-09-22T17:49:23.408Z"
     },
     "posts": {
         "subs": [
@@ -25,6 +25,12 @@
                             {
                                 "text": "22",
                                 "subs": [
+                                    {
+                                        "title": "Edit This Page",
+                                        "id": "174921",
+                                        "created": "2018-09-22T17:49:21.603Z",
+                                        "path": "blog/posts/2018/09/22/174921.md"
+                                    },
                                     {
                                         "title": "An idea about our elections",
                                         "id": "174259",
