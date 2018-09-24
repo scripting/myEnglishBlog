@@ -21,6 +21,9 @@
 				[%title%]
 				</div>
 			[%bodytext%]
+			<div class="divFooter">
+				<p>Last update: [%now%].</p>
+				</div>
 			</div>
 		<script>
 			$(document).ready (function () {
