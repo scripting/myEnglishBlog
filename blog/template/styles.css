@@ -31,10 +31,12 @@ body {
 	margin-bottom: 35px;
 	}
 .divFooter {
-	margin-top: 400px;
+	margin-top: 50px;
 	font-size: .80em;
 	line-height: 180%;
 	border-top: 1px solid silver;
 	text-align: center;
-	padding-top: 15px;
+	}
+.divFooter p {
+	margin-top: 5px;
 	}
