@@ -30,3 +30,11 @@ body {
 	line-height: 100%;
 	margin-bottom: 35px;
 	}
+.divFooter {
+	margin-top: 400px;
+	font-size: .80em;
+	line-height: 180%;
+	border-top: 1px solid silver;
+	text-align: center;
+	padding-top: 15px;
+	}
