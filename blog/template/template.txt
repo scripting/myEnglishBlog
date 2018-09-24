@@ -22,7 +22,7 @@
 				</div>
 			[%bodytext%]
 			<div class="divFooter">
-				<p>Last update: [%now%].</p>
+				<p>Last update: [%modifiedstring%].</p>
 				</div>
 			</div>
 		<script>
