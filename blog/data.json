@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 46,
-        "whenLastDataSave": "2018-09-24T15:43:58.616Z"
+        "ctDataSaves": 47,
+        "whenLastDataSave": "2018-09-24T15:43:59.616Z"
     },
     "posts": {
         "subs": [
@@ -22,6 +22,17 @@
                     {
                         "text": "September",
                         "subs": [
+                            {
+                                "text": "24",
+                                "subs": [
+                                    {
+                                        "title": "Another day on the project",
+                                        "id": "154357",
+                                        "created": "2018-09-24T15:43:57.742Z",
+                                        "path": "blog/posts/2018/09/24/154357.md"
+                                    }
+                                ]
+                            },
                             {
                                 "text": "22",
                                 "subs": [
