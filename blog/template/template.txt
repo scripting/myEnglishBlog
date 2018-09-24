@@ -20,7 +20,9 @@
 			<div class="divTitle">
 				[%title%]
 				</div>
-			[%bodytext%]
+			<div class="divBodytext">
+				[%bodytext%]
+				</div>
 			<div class="divFooter">
 				<p>Last update: [%modifiedstring%].</p>
 				</div>
