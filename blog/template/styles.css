@@ -39,8 +39,8 @@ body {
 .divFooter p {
 	margin-top: 10px;
 	}
-.divBodytext ol {
-	margin-bottom: 10px;
+.divBodytext ol, ul {
+	margin-bottom: 20px;
 	}
 .divBodytext li {
 	margin-top: 15px;
