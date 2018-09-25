@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 66,
-        "whenLastDataSave": "2018-09-25T15:36:36.350Z"
+        "ctDataSaves": 67,
+        "whenLastDataSave": "2018-09-25T15:36:38.350Z"
     },
     "posts": {
         "subs": [
@@ -22,6 +22,17 @@
                     {
                         "text": "September",
                         "subs": [
+                            {
+                                "text": "25",
+                                "subs": [
+                                    {
+                                        "title": "More work on githubpub",
+                                        "id": "153636",
+                                        "created": "2018-09-25T15:36:36.289Z",
+                                        "path": "blog/posts/2018/09/25/153636.md"
+                                    }
+                                ]
+                            },
                             {
                                 "text": "24",
                                 "subs": [
