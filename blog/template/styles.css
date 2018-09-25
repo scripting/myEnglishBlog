@@ -12,11 +12,6 @@ body {
 	margin-right: auto;
 	margin-bottom: 400px;
 	}
-.divPageBody p {
-	font-family: "Georgia";
-	margin-top: 15px;
-	margin-bottom: 0px;
-	}
 .divPageBody h4 {
 	margin-top: 30px;
 	}
@@ -41,6 +36,11 @@ body {
 	}
 .divFooter p {
 	margin-top: 10px;
+	}
+.divBodytext p {
+	font-family: "Georgia";
+	margin-top: 15px;
+	margin-bottom: 0px;
 	}
 .divBodytext ol, ul {
 	margin-bottom: 20px;
