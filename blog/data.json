@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "More work on githubpub",
+    "lastPostTitle": "Facebook is bullshit",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 87,
-        "whenLastDataSave": "2018-09-25T17:12:10.610Z"
+        "ctDataSaves": 89,
+        "whenLastDataSave": "2018-09-25T17:30:41.488Z"
     },
     "posts": {
         "subs": [
@@ -25,6 +25,12 @@
                             {
                                 "text": "25",
                                 "subs": [
+                                    {
+                                        "title": "Facebook is bullshit",
+                                        "id": "173040",
+                                        "created": "2018-09-25T17:30:40.002Z",
+                                        "path": "blog/posts/2018/09/25/173040.md"
+                                    },
                                     {
                                         "title": "More work on githubpub",
                                         "id": "153636",
