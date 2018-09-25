@@ -20,6 +20,7 @@ body {
 	margin-top: 30px;
 	}
 .divPubDate {
+	font-size: 16px;
 	margin-bottom: 10px;
 	}
 .divTitle {
@@ -32,6 +33,7 @@ body {
 	}
 .divFooter {
 	margin-top: 100px;
+	font-size: 16px;
 	line-height: 180%;
 	border-top: 1px solid silver;
 	text-align: center;
