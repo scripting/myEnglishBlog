@@ -13,6 +13,9 @@
 			</script>
 		</head>
 	<body>
+		<div class="divHeaderGraphic">
+			<img src="header.png">
+			</div>
 		<div class="divPageBody">
 			<div class="divPubDate">
 				[%createdstring%]
