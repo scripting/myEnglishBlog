@@ -40,6 +40,7 @@ body {
 .divBodytext p {
 	margin-top: 15px;
 	margin-bottom: 0px;
+	line-height: 150%;
 	}
 .divBodytext ol, ul {
 	margin-bottom: 20px;
