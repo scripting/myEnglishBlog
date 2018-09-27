@@ -14,7 +14,7 @@
 		</head>
 	<body>
 		<div class="divPagetop">
-			<div class="divPagetopImage" id="idPagetopImage" style="background-image: url(/header.png)"></div>
+			<div class="divPagetopImage" id="idPagetopImage" style="background-image: url('/header.png')"></div>
 			<div class="divPagetopTextBackground"></div>
 			<div class="divPagetopText" id="idPageTopText">
 				<div class="divPagetopTitle" id="idMessageTitle">xxx</div>
