@@ -52,3 +52,21 @@ body {
 .divHeaderGraphic {
 	text-align: center;
 	}
+.divPagetopImage {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 230px;
+	width: 100%;
+	margin-left: 0;
+	margin-top: 0;
+	z-index: -1;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color: black;
+	z-index: 0;
+	}
