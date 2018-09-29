@@ -22,23 +22,7 @@
                     {
                         "text": "September",
                         "subs": [
-                            {
-                                "text": "29",
-                                "subs": [
-                                    {
-                                        "title": "Uncle Gravy had a dream",
-                                        "id": "141505",
-                                        "created": "2018-09-29T14:15:05.297Z",
-                                        "path": "blog/posts/2018/09/29/141505.md"
-                                    },
-                                    {
-                                        "title": "More factoring",
-                                        "id": "135932",
-                                        "created": "2018-09-29T13:59:32.431Z",
-                                        "path": "blog/posts/2018/09/29/135932.md"
-                                    }
-                                ]
-                            },
+                            
                             {
                                 "text": "28",
                                 "subs": [
