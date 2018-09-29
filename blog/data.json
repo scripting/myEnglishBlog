@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "hello dolly",
+    "lastPostTitle": "No more fucking around",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 153,
-        "whenLastDataSave": "2018-09-29T14:49:30.936Z"
+        "ctDataSaves": 155,
+        "whenLastDataSave": "2018-09-29T15:15:19.954Z"
     },
     "posts": {
         "subs": [
@@ -25,6 +25,12 @@
                             {
                                 "text": "29",
                                 "subs": [
+                                    {
+                                        "title": "No more fucking around",
+                                        "id": "151518",
+                                        "created": "2018-09-29T15:15:18.861Z",
+                                        "path": "blog/posts/2018/09/29/151518.md"
+                                    },
                                     {
                                         "title": "hello dolly",
                                         "id": "144827",
