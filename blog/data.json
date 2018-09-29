@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "Factoring today",
+    "lastPostTitle": "More factoring",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 142,
-        "whenLastDataSave": "2018-09-29T01:27:26.482Z"
+        "ctDataSaves": 143,
+        "whenLastDataSave": "2018-09-29T13:59:33.018Z"
     },
     "posts": {
         "subs": [
@@ -22,6 +22,17 @@
                     {
                         "text": "September",
                         "subs": [
+                            {
+                                "text": "29",
+                                "subs": [
+                                    {
+                                        "title": "More factoring",
+                                        "id": "135932",
+                                        "created": "2018-09-29T13:59:32.431Z",
+                                        "path": "blog/posts/2018/09/29/135932.md"
+                                    }
+                                ]
+                            },
                             {
                                 "text": "28",
                                 "subs": [
