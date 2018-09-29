@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "More factoring",
+    "lastPostTitle": "Uncle Gravy had a dream",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 143,
-        "whenLastDataSave": "2018-09-29T13:59:33.018Z"
+        "ctDataSaves": 144,
+        "whenLastDataSave": "2018-09-29T14:15:05.451Z"
     },
     "posts": {
         "subs": [
