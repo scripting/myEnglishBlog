@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "No more fucking around",
+    "lastPostTitle": "Cleanup",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 157,
-        "whenLastDataSave": "2018-09-29T15:16:27.955Z"
+        "ctDataSaves": 159,
+        "whenLastDataSave": "2018-09-30T15:48:59.545Z"
     },
     "posts": {
         "subs": [
@@ -22,6 +22,17 @@
                     {
                         "text": "September",
                         "subs": [
+                            {
+                                "text": "30",
+                                "subs": [
+                                    {
+                                        "title": "Cleanup",
+                                        "id": "154858",
+                                        "created": "2018-09-30T15:48:58.475Z",
+                                        "path": "blog/posts/2018/09/30/154858.md"
+                                    }
+                                ]
+                            },
                             {
                                 "text": "29",
                                 "subs": [
