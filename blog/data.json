@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.1",
-    "lastPostTitle": "Cleanup",
+    "lastPostTitle": "Putting a new face on",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,14 +11,31 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 168,
-        "whenLastDataSave": "2018-09-30T17:08:29.407Z"
+        "ctDataSaves": 170,
+        "whenLastDataSave": "2018-10-01T16:51:38.093Z"
     },
     "posts": {
         "subs": [
             {
                 "text": "2018",
                 "subs": [
+                    {
+                        "text": "October",
+                        "subs": [
+                            {
+                                "text": "01",
+                                "subs": [
+                                    {
+                                        "title": "Putting a new face on",
+                                        "description": "",
+                                        "id": "165136",
+                                        "created": "2018-10-01T16:51:36.721Z",
+                                        "path": "blog/posts/2018/10/01/165136.md"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
                     {
                         "text": "September",
                         "subs": [
