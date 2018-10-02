@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 6,
-        "whenLastDataSave": "2018-10-02T15:55:37.905Z"
+        "ctDataSaves": 7,
+        "whenLastDataSave": "2018-10-02T16:15:16.194Z"
     },
     "posts": {
         "subs": [
@@ -22,6 +22,18 @@
                     {
                         "text": "October",
                         "subs": [
+                            {
+                                "text": "02",
+                                "subs": [
+                                    {
+                                        "title": "Interesting",
+                                        "description": "Somehow blog/data.json was reset",
+                                        "id": "155701",
+                                        "created": "2018-10-02T15:57:01.222Z",
+                                        "path": "blog/posts/2018/10/02/155701.md"
+                                    }
+                                ]
+                            },
                             {
                                 "text": "01",
                                 "subs": [
