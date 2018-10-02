@@ -2,6 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.5",
+    "lastPostTitle": "Time for a new post",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -10,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 5,
-        "whenLastDataSave": "2018-10-02T15:52:48.652Z"
+        "ctDataSaves": 6,
+        "whenLastDataSave": "2018-10-02T15:55:37.905Z"
     },
     "posts": {
         "subs": [
