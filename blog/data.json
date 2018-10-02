@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.5",
-    "lastPostTitle": "Time for a new post",
+    "lastPostTitle": "Keep on truckin!",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 10,
-        "whenLastDataSave": "2018-10-02T16:48:51.526Z"
+        "ctDataSaves": 12,
+        "whenLastDataSave": "2018-10-02T16:49:19.527Z"
     },
     "posts": {
         "subs": [
@@ -25,6 +25,13 @@
                             {
                                 "text": "02",
                                 "subs": [
+                                    {
+                                        "title": "Keep on truckin!",
+                                        "description": "",
+                                        "id": "164918",
+                                        "created": "2018-10-02T16:49:18.095Z",
+                                        "path": "blog/posts/2018/10/02/164918.md"
+                                    },
                                     {
                                         "title": "Interesting",
                                         "description": "Somehow blog/data.json was reset",
