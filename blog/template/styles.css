@@ -22,6 +22,7 @@ body {
 .divTitle {
 	font-family: "Oswald";
 	font-size: 48px;
+	margin-bottom: 15px;
 	letter-spacing: -2px;
 	font-weight: bold;
 	line-height: 100%;
