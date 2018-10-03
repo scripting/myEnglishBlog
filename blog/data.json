@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.5",
-    "lastPostTitle": "Here's a new post",
+    "lastPostTitle": "Problem with Font Awesome and Medium-Editor",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 32,
-        "whenLastDataSave": "2018-10-03T14:59:01.267Z"
+        "ctDataSaves": 34,
+        "whenLastDataSave": "2018-10-03T14:59:54.262Z"
     },
     "posts": {
         "subs": [
@@ -22,6 +22,18 @@
                     {
                         "text": "October",
                         "subs": [
+                            {
+                                "text": "03",
+                                "subs": [
+                                    {
+                                        "title": "Problem with Font Awesome and Medium-Editor",
+                                        "description": "",
+                                        "id": "145953",
+                                        "created": "2018-10-03T14:59:53.061Z",
+                                        "path": "blog/posts/2018/10/03/145953.md"
+                                    }
+                                ]
+                            },
                             {
                                 "text": "02",
                                 "subs": [
