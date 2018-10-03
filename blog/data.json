@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 36,
-        "whenLastDataSave": "2018-10-03T15:00:55.257Z"
+        "ctDataSaves": 37,
+        "whenLastDataSave": "2018-10-03T15:01:16.253Z"
     },
     "posts": {
         "subs": [
@@ -26,7 +26,7 @@
                                 "text": "03",
                                 "subs": [
                                     {
-                                        "title": "Problem with Font Awesome and Medium-Editor",
+                                        "title": "Font Awesome and Medium-Editor",
                                         "description": "",
                                         "id": "145953",
                                         "created": "2018-10-03T14:59:53.061Z",
