@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 19,
-        "whenLastDataSave": "2018-10-03T02:35:00.553Z"
+        "ctDataSaves": 21,
+        "whenLastDataSave": "2018-10-03T02:35:58.546Z"
     },
     "posts": {
         "subs": [
@@ -25,6 +25,13 @@
                             {
                                 "text": "02",
                                 "subs": [
+                                    {
+                                        "title": "Here's a new post",
+                                        "description": "Testing to see what happens with the placeholders",
+                                        "id": "023500",
+                                        "created": "2018-10-03T02:35:00.008Z",
+                                        "path": "blog/posts/2018/10/02/023500.md"
+                                    },
                                     {
                                         "title": "Moving on to UI (testing)",
                                         "description": "This is where the description goes...",
