@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 37,
-        "whenLastDataSave": "2018-10-03T15:01:16.253Z"
+        "ctDataSaves": 38,
+        "whenLastDataSave": "2018-10-03T15:01:53.248Z"
     },
     "posts": {
         "subs": [
@@ -27,7 +27,7 @@
                                 "subs": [
                                     {
                                         "title": "Font Awesome and Medium-Editor",
-                                        "description": "",
+                                        "description": "It appears FA changed the name of an icon that Medium-Editor uses in its toolbar.",
                                         "id": "145953",
                                         "created": "2018-10-03T14:59:53.061Z",
                                         "path": "blog/posts/2018/10/03/145953.md"
