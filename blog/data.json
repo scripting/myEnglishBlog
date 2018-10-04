@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.5",
-    "lastPostTitle": "Problem with Font Awesome and Medium-Editor",
+    "lastPostTitle": "Another day another test post",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 59,
-        "whenLastDataSave": "2018-10-04T13:37:12.145Z"
+        "ctDataSaves": 60,
+        "whenLastDataSave": "2018-10-04T14:21:59.503Z"
     },
     "posts": {
         "subs": [
