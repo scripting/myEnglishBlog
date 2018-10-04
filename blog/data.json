@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 102,
-        "whenLastDataSave": "2018-10-04T20:24:57.327Z"
+        "ctDataSaves": 104,
+        "whenLastDataSave": "2018-10-04T20:25:09.328Z"
     },
     "posts": {
         "subs": [
@@ -25,6 +25,13 @@
                             {
                                 "text": "04",
                                 "subs": [
+                                    {
+                                        "title": "Checking out the HTML",
+                                        "description": "",
+                                        "id": "202456",
+                                        "created": "2018-10-04T20:24:56.731Z",
+                                        "path": "blog/posts/2018/10/04/202456.md"
+                                    },
                                     {
                                         "title": "Another day another test post",
                                         "description": "And we have nothing to say other than the usual bullshit.",
