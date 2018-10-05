@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 128,
-        "whenLastDataSave": "2018-10-05T14:57:22.246Z"
+        "ctDataSaves": 129,
+        "whenLastDataSave": "2018-10-05T14:57:34.245Z"
     },
     "posts": {
         "subs": [
@@ -27,7 +27,7 @@
                                 "subs": [
                                     {
                                         "title": "Sever overhaul day",
-                                        "description": "",
+                                        "description": "Merging english server and githubpub",
                                         "id": "145720",
                                         "created": "2018-10-05T14:57:20.151Z",
                                         "path": "blog/posts/2018/10/05/145720.md"
