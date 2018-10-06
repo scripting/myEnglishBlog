@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.5",
-    "lastPostTitle": "Sever overhaul day",
+    "lastPostTitle": "fresh start",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 147,
-        "whenLastDataSave": "2018-10-05T16:22:06.037Z"
+        "ctDataSaves": 152,
+        "whenLastDataSave": "2018-10-06T15:22:02.708Z"
     },
     "posts": {
         "subs": [
@@ -22,6 +22,18 @@
                     {
                         "text": "October",
                         "subs": [
+                            {
+                                "text": "06",
+                                "subs": [
+                                    {
+                                        "title": "fresh start",
+                                        "description": "",
+                                        "id": "145642",
+                                        "created": "2018-10-06T14:56:42.024Z",
+                                        "path": "posts/2018/10/06/145642.md"
+                                    }
+                                ]
+                            },
                             {
                                 "text": "05",
                                 "subs": [
