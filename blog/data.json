@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.5",
-    "lastPostTitle": "umpty humpty wtf",
+    "lastPostTitle": "horton norton gordon",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 209,
-        "whenLastDataSave": "2018-10-08T16:49:31.357Z"
+        "ctDataSaves": 210,
+        "whenLastDataSave": "2018-10-08T16:53:03.253Z"
     },
     "posts": {
         "subs": [
