@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.5",
-    "lastPostTitle": "boo who lou",
+    "lastPostTitle": "funky honey do",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 195,
-        "whenLastDataSave": "2018-10-08T16:35:27.344Z"
+        "ctDataSaves": 196,
+        "whenLastDataSave": "2018-10-08T16:39:26.057Z"
     },
     "posts": {
         "subs": [
