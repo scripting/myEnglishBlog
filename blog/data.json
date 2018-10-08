@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.5",
-    "lastPostTitle": "bling bling bling",
+    "lastPostTitle": "ring ring ring",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 187,
-        "whenLastDataSave": "2018-10-08T16:19:04.253Z"
+        "ctDataSaves": 189,
+        "whenLastDataSave": "2018-10-08T16:19:40.533Z"
     },
     "posts": {
         "subs": [
@@ -25,6 +25,13 @@
                             {
                                 "text": "08",
                                 "subs": [
+                                    {
+                                        "title": "ring ring ring",
+                                        "description": "",
+                                        "id": "161939",
+                                        "created": "2018-10-08T16:19:39.174Z",
+                                        "path": "posts/2018/10/08/161939.md"
+                                    },
                                     {
                                         "title": "I'm dreaming of a white christmas",
                                         "description": "lalalalala",
