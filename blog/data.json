@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.5",
-    "lastPostTitle": "bung dung lung",
+    "lastPostTitle": "boo who lou",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 193,
-        "whenLastDataSave": "2018-10-08T16:25:05.341Z"
+        "ctDataSaves": 195,
+        "whenLastDataSave": "2018-10-08T16:35:27.344Z"
     },
     "posts": {
         "subs": [
@@ -25,6 +25,13 @@
                             {
                                 "text": "08",
                                 "subs": [
+                                    {
+                                        "title": "boo who lou",
+                                        "description": "",
+                                        "id": "163525",
+                                        "created": "2018-10-08T16:35:25.852Z",
+                                        "path": "posts/2018/10/08/163525.md"
+                                    },
                                     {
                                         "title": "bung dung lung",
                                         "description": "",
