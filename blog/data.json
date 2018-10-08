@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.5",
-    "lastPostTitle": "funky honey do",
+    "lastPostTitle": "hooley booley truly",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -12,7 +12,7 @@
     "language": "en-us",
     "stats": {
         "ctDataSaves": 199,
-        "whenLastDataSave": "2018-10-08T16:39:43.061Z"
+        "whenLastDataSave": "2018-10-08T16:40:01.256Z"
     },
     "posts": {
         "subs": [
@@ -27,7 +27,7 @@
                                 "subs": [
                                     {
                                         "title": "funky honey do",
-                                        "description": "Four five six",
+                                        "description": "Four",
                                         "id": "163925",
                                         "created": "2018-10-08T16:39:25.668Z",
                                         "path": "posts/2018/10/08/163925.md"
