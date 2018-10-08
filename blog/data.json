@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.5",
-    "lastPostTitle": "hooooolie julie truly",
+    "lastPostTitle": "mainly plainly sanely",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 203,
-        "whenLastDataSave": "2018-10-08T16:48:27.369Z"
+        "ctDataSaves": 206,
+        "whenLastDataSave": "2018-10-08T16:48:52.355Z"
     },
     "posts": {
         "subs": [
@@ -25,6 +25,20 @@
                             {
                                 "text": "08",
                                 "subs": [
+                                    {
+                                        "title": "mainly plainly sanely",
+                                        "description": "",
+                                        "id": "164850",
+                                        "created": "2018-10-08T16:48:45.820Z",
+                                        "path": "posts/2018/10/08/164850.md"
+                                    },
+                                    {
+                                        "title": "hooooolie julie truly",
+                                        "description": "",
+                                        "id": "164826",
+                                        "created": "2018-10-08T16:48:17.757Z",
+                                        "path": "posts/2018/10/08/164826.md"
+                                    },
                                     {
                                         "title": "dingo bingo lingo",
                                         "description": "",
