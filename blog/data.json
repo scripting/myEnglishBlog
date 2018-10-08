@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.5",
-    "lastPostTitle": "let's do it again!",
+    "lastPostTitle": "every day a test post",
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 180,
-        "whenLastDataSave": "2018-10-07T19:10:28.086Z"
+        "ctDataSaves": 182,
+        "whenLastDataSave": "2018-10-08T16:06:08.334Z"
     },
     "posts": {
         "subs": [
@@ -22,6 +22,18 @@
                     {
                         "text": "October",
                         "subs": [
+                            {
+                                "text": "08",
+                                "subs": [
+                                    {
+                                        "title": "every day a test post",
+                                        "description": "",
+                                        "id": "160607",
+                                        "created": "2018-10-08T16:06:07.078Z",
+                                        "path": "posts/2018/10/08/160607.md"
+                                    }
+                                ]
+                            },
                             {
                                 "text": "07",
                                 "subs": [
