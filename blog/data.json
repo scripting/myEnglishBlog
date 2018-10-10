@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 269,
-        "whenLastDataSave": "2018-10-10T13:23:06.215Z"
+        "ctDataSaves": 270,
+        "whenLastDataSave": "2018-10-10T13:23:16.215Z"
     },
     "posts": {
         "subs": [
@@ -27,7 +27,7 @@
                                 "subs": [
                                     {
                                         "title": "An example post",
-                                        "description": "",
+                                        "description": "An example to use in the docs for the API",
                                         "id": "132303",
                                         "created": "2018-10-10T13:23:03.530Z",
                                         "path": "posts/2018/10/10/132303.md"
