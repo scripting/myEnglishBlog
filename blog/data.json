@@ -3,6 +3,7 @@
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.5",
     "lastPostTitle": "It's been a while",
+    "maxFeedItems": 25,
     "cloud": {
         "domain": "rpc.rsscloud.io",
         "port": "5337",
@@ -11,8 +12,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 285,
-        "whenLastDataSave": "2018-10-11T16:23:32.728Z"
+        "ctDataSaves": 286,
+        "whenLastDataSave": "2018-10-11T16:39:22.047Z"
     },
     "posts": {
         "subs": [
@@ -44,7 +45,9 @@
                                         "description": "An example to use in the docs for the API",
                                         "id": "132303",
                                         "created": "2018-10-10T13:23:03.530Z",
-                                        "path": "posts/2018/10/10/132303.md"
+                                        "path": "posts/2018/10/10/132303.md",
+                                        "urlHtml": "http://englishblog1.scripting.com/posts/2018/10/10/132303.md",
+                                        "urlGitHub": "https://github.com/scripting/myEnglishBlog/blob/master/blog/posts/2018/10/10/132303.md"
                                     }
                                 ]
                             },
