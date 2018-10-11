@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 284,
-        "whenLastDataSave": "2018-10-11T16:19:54.045Z"
+        "ctDataSaves": 285,
+        "whenLastDataSave": "2018-10-11T16:23:32.728Z"
     },
     "posts": {
         "subs": [
@@ -30,7 +30,9 @@
                                         "description": "Since we made a new post",
                                         "id": "161945",
                                         "created": "2018-10-11T16:19:45.500Z",
-                                        "path": "posts/2018/10/11/161945.md"
+                                        "path": "posts/2018/10/11/161945.md",
+                                        "urlHtml": "http://englishblog1.scripting.com/posts/2018/10/11/161945.md",
+                                        "urlGitHub": "https://github.com/scripting/myEnglishBlog/blob/master/blog/posts/2018/10/11/161945.md"
                                     }
                                 ]
                             },
