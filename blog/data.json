@@ -12,8 +12,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 304,
-        "whenLastDataSave": "2018-10-11T20:55:17.668Z"
+        "ctDataSaves": 305,
+        "whenLastDataSave": "2018-10-11T20:56:09.664Z"
     },
     "posts": {
         "subs": [
@@ -28,7 +28,7 @@
                                 "subs": [
                                     {
                                         "title": "A nice post to see if everything still works",
-                                        "description": "",
+                                        "description": "Latest change -- RSS feed",
                                         "id": "205515",
                                         "created": "2018-10-11T20:55:15.819Z",
                                         "path": "posts/2018/10/11/205515.md",
