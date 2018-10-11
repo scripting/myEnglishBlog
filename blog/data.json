@@ -11,8 +11,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 283,
-        "whenLastDataSave": "2018-10-11T16:19:47.047Z"
+        "ctDataSaves": 284,
+        "whenLastDataSave": "2018-10-11T16:19:54.045Z"
     },
     "posts": {
         "subs": [
@@ -27,7 +27,7 @@
                                 "subs": [
                                     {
                                         "title": "It's been a while",
-                                        "description": "",
+                                        "description": "Since we made a new post",
                                         "id": "161945",
                                         "created": "2018-10-11T16:19:45.500Z",
                                         "path": "posts/2018/10/11/161945.md"
