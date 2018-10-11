@@ -12,8 +12,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 287,
-        "whenLastDataSave": "2018-10-11T16:39:23.045Z"
+        "ctDataSaves": 288,
+        "whenLastDataSave": "2018-10-11T16:39:29.044Z"
     },
     "posts": {
         "subs": [
@@ -59,7 +59,9 @@
                                         "description": "allright that seems to work",
                                         "id": "180556",
                                         "created": "2018-10-09T18:05:56.471Z",
-                                        "path": "posts/2018/10/09/180556.md"
+                                        "path": "posts/2018/10/09/180556.md",
+                                        "urlHtml": "http://englishblog1.scripting.com/posts/2018/10/09/180556.md",
+                                        "urlGitHub": "https://github.com/scripting/myEnglishBlog/blob/master/blog/posts/2018/10/09/180556.md"
                                     },
                                     {
                                         "title": "a post a day keeps the doctor away",
