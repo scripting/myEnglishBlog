@@ -12,8 +12,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 293,
-        "whenLastDataSave": "2018-10-11T16:58:03.134Z"
+        "ctDataSaves": 294,
+        "whenLastDataSave": "2018-10-11T16:58:11.135Z"
     },
     "posts": {
         "subs": [
@@ -28,7 +28,7 @@
                                 "subs": [
                                     {
                                         "title": "A new post for the new feed",
-                                        "description": "",
+                                        "description": "This blog now has an RSS feed?",
                                         "id": "165801",
                                         "created": "2018-10-11T16:58:01.433Z",
                                         "path": "posts/2018/10/11/165801.md",
