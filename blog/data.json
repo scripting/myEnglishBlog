@@ -12,8 +12,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 289,
-        "whenLastDataSave": "2018-10-11T16:39:37.046Z"
+        "ctDataSaves": 290,
+        "whenLastDataSave": "2018-10-11T16:39:45.042Z"
     },
     "posts": {
         "subs": [
@@ -82,7 +82,9 @@
                                         "description": "are the outlines around the boxes good or bad?",
                                         "id": "171239",
                                         "created": "2018-10-08T17:12:39.400Z",
-                                        "path": "posts/2018/10/08/171239.md"
+                                        "path": "posts/2018/10/08/171239.md",
+                                        "urlHtml": "http://englishblog1.scripting.com/posts/2018/10/08/171239.md",
+                                        "urlGitHub": "https://github.com/scripting/myEnglishBlog/blob/master/blog/posts/2018/10/08/171239.md"
                                     },
                                     {
                                         "title": "horton norton gordon",
