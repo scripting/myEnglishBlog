@@ -12,8 +12,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 292,
-        "whenLastDataSave": "2018-10-11T16:58:02.135Z"
+        "ctDataSaves": 293,
+        "whenLastDataSave": "2018-10-11T16:58:03.134Z"
     },
     "posts": {
         "subs": [
@@ -26,6 +26,15 @@
                             {
                                 "text": "11",
                                 "subs": [
+                                    {
+                                        "title": "A new post for the new feed",
+                                        "description": "",
+                                        "id": "165801",
+                                        "created": "2018-10-11T16:58:01.433Z",
+                                        "path": "posts/2018/10/11/165801.md",
+                                        "urlHtml": "http://englishblog1.scripting.com/posts/2018/10/11/165801.md",
+                                        "urlGitHub": "https://github.com/scripting/myEnglishBlog/blob/master/blog/posts/2018/10/11/165801.md"
+                                    },
                                     {
                                         "title": "It's been a while",
                                         "description": "Since we made a new post",
