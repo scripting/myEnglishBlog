@@ -81,3 +81,6 @@ body {
 .ulHomePageItems li a {
 	color: black;
 	}
+.ulHomePageItems li p {
+	font-size: 13px;
+	}
