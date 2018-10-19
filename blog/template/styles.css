@@ -75,3 +75,6 @@ body {
 	background-color: black;
 	z-index: 0;
 	}
+.ulHomePageItems {
+	list-style-type: none;
+	}
