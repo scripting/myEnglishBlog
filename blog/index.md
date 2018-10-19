@@ -1,1 +1,3 @@
-[%homepagetext%]
+---
+flHomePage: true
+---
