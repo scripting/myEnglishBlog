@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.5",
-    "lastPostTitle": "Trying again to find the groove",
+    "lastPostTitle": "There's now a home page",
     "maxFeedItems": 25,
     "cloud": {
         "domain": "rpc.rsscloud.io",
@@ -12,8 +12,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 333,
-        "whenLastDataSave": "2018-10-19T13:42:23.385Z"
+        "ctDataSaves": 334,
+        "whenLastDataSave": "2018-10-19T22:21:49.121Z"
     },
     "posts": {
         "subs": [
