@@ -81,6 +81,8 @@ body {
 .ulHomePageItems li a {
 	color: black;
 	}
-.ulHomePageItems li p {
+.ulHomePageItems li .divItemDescription {
+	}
+.ulHomePageItems li .divItemWhenPosted {
 	font-size: 13px;
 	}
