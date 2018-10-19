@@ -12,8 +12,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 334,
-        "whenLastDataSave": "2018-10-19T22:21:49.121Z"
+        "ctDataSaves": 335,
+        "whenLastDataSave": "2018-10-19T22:21:50.123Z"
     },
     "posts": {
         "subs": [
@@ -26,6 +26,15 @@
                             {
                                 "text": "19",
                                 "subs": [
+                                    {
+                                        "title": "There's now a home page",
+                                        "description": "",
+                                        "id": "222148",
+                                        "created": "2018-10-19T22:21:48.432Z",
+                                        "path": "posts/2018/10/19/222148.md",
+                                        "urlHtml": "http://englishblog1.scripting.com/posts/2018/10/19/222148.md",
+                                        "urlGitHub": "https://github.com/scripting/myEnglishBlog/blob/master/blog/posts/2018/10/19/222148.md"
+                                    },
                                     {
                                         "title": "Trying again to find the groove",
                                         "description": "Man I'm getting lazy",
