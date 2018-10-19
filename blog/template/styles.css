@@ -79,6 +79,9 @@ body {
 	list-style-type: none;
 	margin-left: 0;
 	}
+.ulHomePageItems li {
+	margin-bottom: 35px;
+	}
 .ulHomePageItems li a {
 	color: black;
 	}
