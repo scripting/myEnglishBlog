@@ -81,7 +81,12 @@ body {
 .ulHomePageItems li a {
 	color: black;
 	}
+.ulHomePageItems li .divItemTitle {
+	font-weight: bold;
+	margin-bottom: 15px;
+	}
 .ulHomePageItems li .divItemDescription {
+	margin-bottom: 15px;
 	}
 .ulHomePageItems li .divItemWhenPosted {
 	font-size: 13px;
