@@ -78,3 +78,6 @@ body {
 .ulHomePageItems {
 	list-style-type: none;
 	}
+.ulHomePageItems li a {
+	color: black;
+	}
