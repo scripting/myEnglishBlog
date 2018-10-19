@@ -12,8 +12,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 338,
-        "whenLastDataSave": "2018-10-19T22:22:13.118Z"
+        "ctDataSaves": 339,
+        "whenLastDataSave": "2018-10-19T22:22:16.120Z"
     },
     "posts": {
         "subs": [
@@ -28,7 +28,7 @@
                                 "subs": [
                                     {
                                         "title": "There's now a home page",
-                                        "description": "A boolean, flHomePage as an attribute says put the home page text here in the",
+                                        "description": "A boolean, flHomePage as an attribute says put the home page text here in the bodytext.",
                                         "id": "222148",
                                         "created": "2018-10-19T22:21:48.432Z",
                                         "path": "posts/2018/10/19/222148.md",
