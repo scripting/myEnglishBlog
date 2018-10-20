@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.5",
-    "lastPostTitle": "Settled on how template works",
+    "lastPostTitle": "See if the icons update correctly",
     "maxFeedItems": 25,
     "cloud": {
         "domain": "rpc.rsscloud.io",
@@ -12,8 +12,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 353,
-        "whenLastDataSave": "2018-10-20T17:11:26.492Z"
+        "ctDataSaves": 355,
+        "whenLastDataSave": "2018-10-20T17:16:51.379Z"
     },
     "posts": {
         "subs": [
@@ -26,6 +26,15 @@
                             {
                                 "text": "20",
                                 "subs": [
+                                    {
+                                        "title": "See if the icons update correctly",
+                                        "description": "",
+                                        "id": "171649",
+                                        "created": "2018-10-20T17:16:49.899Z",
+                                        "path": "posts/2018/10/20/171649.md",
+                                        "urlHtml": "http://englishblog1.scripting.com/posts/2018/10/20/171649.md",
+                                        "urlGitHub": "https://github.com/scripting/myEnglishBlog/blob/master/blog/posts/2018/10/20/171649.md"
+                                    },
                                     {
                                         "title": "Settled on how template works",
                                         "description": "I also wrote docs",
