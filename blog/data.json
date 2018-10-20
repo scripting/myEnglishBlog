@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.5",
-    "lastPostTitle": "There's now a home page",
+    "lastPostTitle": "Settled on how template works",
     "maxFeedItems": 25,
     "cloud": {
         "domain": "rpc.rsscloud.io",
@@ -12,8 +12,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 345,
-        "whenLastDataSave": "2018-10-19T22:23:42.110Z"
+        "ctDataSaves": 347,
+        "whenLastDataSave": "2018-10-20T17:10:15.489Z"
     },
     "posts": {
         "subs": [
@@ -23,6 +23,20 @@
                     {
                         "text": "October",
                         "subs": [
+                            {
+                                "text": "20",
+                                "subs": [
+                                    {
+                                        "title": "Settled on how template works",
+                                        "description": "",
+                                        "id": "171014",
+                                        "created": "2018-10-20T17:10:14.127Z",
+                                        "path": "posts/2018/10/20/171014.md",
+                                        "urlHtml": "http://englishblog1.scripting.com/posts/2018/10/20/171014.md",
+                                        "urlGitHub": "https://github.com/scripting/myEnglishBlog/blob/master/blog/posts/2018/10/20/171014.md"
+                                    }
+                                ]
+                            },
                             {
                                 "text": "19",
                                 "subs": [
