@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.5",
-    "lastPostTitle": "See if the icons update correctly",
+    "lastPostTitle": "A post a day keeps the doctor away",
     "maxFeedItems": 25,
     "cloud": {
         "domain": "rpc.rsscloud.io",
@@ -12,9 +12,9 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 426,
-        "whenLastDataSave": "2018-10-21T17:02:29.406Z",
-        "ctSecsLastDataSave": 0.975,
+        "ctDataSaves": 428,
+        "whenLastDataSave": "2018-10-22T01:42:57.396Z",
+        "ctSecsLastDataSave": 2.168,
         "ctRssBuilds": 33,
         "whenLastRssBuild": "2018-10-21T17:02:28.413Z",
         "ctSecsLastRssBuild": 1.01
@@ -27,6 +27,20 @@
                     {
                         "text": "October",
                         "subs": [
+                            {
+                                "text": "21",
+                                "subs": [
+                                    {
+                                        "title": "A post a day keeps the doctor away",
+                                        "description": "I cr",
+                                        "id": "014254",
+                                        "created": "2018-10-22T01:42:54.021Z",
+                                        "path": "posts/2018/10/21/014254.md",
+                                        "urlHtml": "http://englishblog1.scripting.com/posts/2018/10/21/014254.md",
+                                        "urlGitHub": "https://github.com/scripting/myEnglishBlog/blob/master/blog/posts/2018/10/21/014254.md"
+                                    }
+                                ]
+                            },
                             {
                                 "text": "20",
                                 "subs": [
