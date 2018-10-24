@@ -12,12 +12,12 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 444,
-        "whenLastDataSave": "2018-10-24T16:10:40.688Z",
-        "ctSecsLastDataSave": 1.087,
-        "ctRssBuilds": 42,
-        "whenLastRssBuild": "2018-10-24T16:10:40.622Z",
-        "ctSecsLastRssBuild": 0.933
+        "ctDataSaves": 446,
+        "whenLastDataSave": "2018-10-24T16:48:26.561Z",
+        "ctSecsLastDataSave": 1.119,
+        "ctRssBuilds": 43,
+        "whenLastRssBuild": "2018-10-24T16:48:25.596Z",
+        "ctSecsLastRssBuild": 0.941
     },
     "posts": {
         "subs": [
@@ -31,8 +31,8 @@
                                 "text": "24",
                                 "subs": [
                                     {
-                                        "title": "Oh the buzzing!!!!???? Sumbitch!",
-                                        "description": "Hello Dolly",
+                                        "title": "Oh the buzzing!!!!???? Sumbitch",
+                                        "description": "Hello Dolly, well hello Dolly, it's so nice....",
                                         "id": "153229",
                                         "created": "2018-10-24T15:32:29.335Z",
                                         "path": "posts/2018/10/24/153229.md",
