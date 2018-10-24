@@ -12,9 +12,9 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 448,
-        "whenLastDataSave": "2018-10-24T20:16:20.490Z",
-        "ctSecsLastDataSave": 1.329,
+        "ctDataSaves": 449,
+        "whenLastDataSave": "2018-10-24T20:16:35.490Z",
+        "ctSecsLastDataSave": 1.521,
         "ctRssBuilds": 44,
         "whenLastRssBuild": "2018-10-24T20:16:19.491Z",
         "ctSecsLastRssBuild": 0.996
@@ -32,7 +32,7 @@
                                 "subs": [
                                     {
                                         "title": "I don't have a dong in this",
-                                        "description": "",
+                                        "description": "I'm interested though",
                                         "id": "201616",
                                         "created": "2018-10-24T20:16:16.074Z",
                                         "path": "posts/2018/10/24/201616.md",
