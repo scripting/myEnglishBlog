@@ -12,8 +12,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 442,
-        "whenLastDataSave": "2018-10-24T16:01:16.268Z",
+        "ctDataSaves": 443,
+        "whenLastDataSave": "2018-10-24T16:10:37.691Z",
         "ctSecsLastDataSave": 1,
         "ctRssBuilds": 41,
         "whenLastRssBuild": "2018-10-24T16:01:15.281Z",
@@ -77,7 +77,7 @@
                                         "urlGitHub": "https://github.com/scripting/myEnglishBlog/blob/master/blog/posts/2018/10/19/222148.md"
                                     },
                                     {
-                                        "title": "Trying again to find the groove",
+                                        "title": "Trying again to find the groove?",
                                         "description": "Man I'm getting lazy",
                                         "id": "134142",
                                         "created": "2018-10-19T13:41:42.674Z",
