@@ -12,8 +12,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 430,
-        "whenLastDataSave": "2018-10-24T15:32:56.219Z",
+        "ctDataSaves": 431,
+        "whenLastDataSave": "2018-10-24T15:33:23.669Z",
         "ctSecsLastDataSave": 1.049,
         "ctRssBuilds": 35,
         "whenLastRssBuild": "2018-10-24T15:32:55.477Z",
@@ -31,7 +31,7 @@
                                 "text": "24",
                                 "subs": [
                                     {
-                                        "title": "Oh the buzzing",
+                                        "title": "Oh the buzzing!",
                                         "description": "Hello Dolly",
                                         "id": "153229",
                                         "created": "2018-10-24T15:32:29.335Z",
