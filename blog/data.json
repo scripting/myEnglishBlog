@@ -12,12 +12,12 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 464,
-        "whenLastDataSave": "2018-10-25T14:55:39.159Z",
-        "ctSecsLastDataSave": 1.41,
-        "ctRssBuilds": 52,
-        "whenLastRssBuild": "2018-10-25T14:55:38.924Z",
-        "ctSecsLastRssBuild": 0.767
+        "ctDataSaves": 466,
+        "whenLastDataSave": "2018-10-25T14:56:24.348Z",
+        "ctSecsLastDataSave": 1.096,
+        "ctRssBuilds": 53,
+        "whenLastRssBuild": "2018-10-25T14:56:24.077Z",
+        "ctSecsLastRssBuild": 0.915
     },
     "posts": {
         "subs": [
@@ -31,8 +31,8 @@
                                 "text": "25",
                                 "subs": [
                                     {
-                                        "title": "Should do a little post at least once a day",
-                                        "description": "",
+                                        "title": "Should do a little post...",
+                                        "description": "At least once a day",
                                         "id": "145521",
                                         "created": "2018-10-25T14:55:21.234Z",
                                         "path": "posts/2018/10/25/145521.md",
