@@ -12,9 +12,9 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 471,
-        "whenLastDataSave": "2018-10-25T15:22:48.957Z",
-        "ctSecsLastDataSave": 1.059,
+        "ctDataSaves": 472,
+        "whenLastDataSave": "2018-10-25T15:22:52.956Z",
+        "ctSecsLastDataSave": 1.177,
         "ctRssBuilds": 55,
         "whenLastRssBuild": "2018-10-25T15:22:48.911Z",
         "ctSecsLastRssBuild": 0.956
@@ -32,7 +32,7 @@
                                 "subs": [
                                     {
                                         "title": "I have a feeling",
-                                        "description": "",
+                                        "description": "This is going to be good.",
                                         "id": "152244",
                                         "created": "2018-10-25T15:22:44.387Z",
                                         "path": "posts/2018/10/25/152244.md",
