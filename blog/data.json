@@ -12,9 +12,9 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 543,
-        "whenLastDataSave": "2018-10-25T21:12:03.397Z",
-        "ctSecsLastDataSave": 1.036,
+        "ctDataSaves": 544,
+        "whenLastDataSave": "2018-10-25T21:12:17.394Z",
+        "ctSecsLastDataSave": 1.106,
         "ctRssBuilds": 86,
         "whenLastRssBuild": "2018-10-25T21:12:02.784Z",
         "ctSecsLastRssBuild": 1.38
@@ -32,7 +32,7 @@
                                 "subs": [
                                     {
                                         "title": "Every picture tells a story",
-                                        "description": "",
+                                        "description": "A true story about old music..",
                                         "id": "210957",
                                         "created": "2018-10-25T21:09:57.034Z",
                                         "path": "posts/2018/10/25/210957.md",
