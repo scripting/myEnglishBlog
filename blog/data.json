@@ -12,12 +12,12 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 511,
-        "whenLastDataSave": "2018-10-25T16:43:40.575Z",
+        "ctDataSaves": 513,
+        "whenLastDataSave": "2018-10-25T16:44:33.061Z",
         "ctSecsLastDataSave": 1.188,
-        "ctRssBuilds": 71,
-        "whenLastRssBuild": "2018-10-25T16:39:17.789Z",
-        "ctSecsLastRssBuild": 1.324
+        "ctRssBuilds": 72,
+        "whenLastRssBuild": "2018-10-25T16:44:33.047Z",
+        "ctSecsLastRssBuild": 0.984
     },
     "posts": {
         "subs": [
