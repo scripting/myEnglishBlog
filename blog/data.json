@@ -2,7 +2,7 @@
     "title": "The best blog ever",
     "description": "The first blog hosted by English on GitHub.",
     "generator": "English v0.4.5",
-    "lastPostTitle": "See if the icons update correctly",
+    "lastPostTitle": "I have a feeling",
     "maxFeedItems": 25,
     "cloud": {
         "domain": "rpc.rsscloud.io",
@@ -12,8 +12,8 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 468,
-        "whenLastDataSave": "2018-10-25T15:07:56.789Z",
+        "ctDataSaves": 469,
+        "whenLastDataSave": "2018-10-25T15:22:44.959Z",
         "ctSecsLastDataSave": 1.432,
         "ctRssBuilds": 54,
         "whenLastRssBuild": "2018-10-25T15:07:56.220Z",
