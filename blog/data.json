@@ -1,6 +1,6 @@
 {
-    "title": "The best blog ever",
-    "description": "The first blog hosted by English on GitHub.",
+    "title": "The best blog ever!",
+    "description": "The first blog hosted by English on GitHub!",
     "generator": "English v0.4.5",
     "lastPostTitle": "I have a feeling",
     "maxFeedItems": 25,
@@ -10,10 +10,10 @@
         "path": "/pleaseNotify",
         "protocol": "http-post"
     },
-    "language": "en-us",
+    "language": "en-uk",
     "stats": {
-        "ctDataSaves": 565,
-        "whenLastDataSave": "2018-10-26T15:43:13.387Z",
+        "ctDataSaves": 566,
+        "whenLastDataSave": "2018-10-26T16:43:41.969Z",
         "ctSecsLastDataSave": 1.093,
         "ctRssBuilds": 97,
         "whenLastRssBuild": "2018-10-26T15:43:12.641Z",
