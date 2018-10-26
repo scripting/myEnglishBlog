@@ -12,9 +12,9 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 549,
-        "whenLastDataSave": "2018-10-26T15:14:20.297Z",
-        "ctSecsLastDataSave": 1.241,
+        "ctDataSaves": 550,
+        "whenLastDataSave": "2018-10-26T15:14:25.295Z",
+        "ctSecsLastDataSave": 1.078,
         "ctRssBuilds": 89,
         "whenLastRssBuild": "2018-10-26T15:14:19.346Z",
         "ctSecsLastRssBuild": 1.051
@@ -32,7 +32,7 @@
                                 "subs": [
                                     {
                                         "title": "A post a day",
-                                        "description": "",
+                                        "description": "Keeps the doctor away..",
                                         "id": "151413",
                                         "created": "2018-10-26T15:14:13.779Z",
                                         "path": "posts/2018/10/26/151413.md",
