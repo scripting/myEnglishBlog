@@ -12,12 +12,12 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 545,
-        "whenLastDataSave": "2018-10-25T21:12:23.466Z",
-        "ctSecsLastDataSave": 1.046,
-        "ctRssBuilds": 87,
-        "whenLastRssBuild": "2018-10-25T21:12:23.183Z",
-        "ctSecsLastRssBuild": 1.257
+        "ctDataSaves": 547,
+        "whenLastDataSave": "2018-10-26T15:12:30.296Z",
+        "ctSecsLastDataSave": 1.177,
+        "ctRssBuilds": 88,
+        "whenLastRssBuild": "2018-10-26T15:12:29.296Z",
+        "ctSecsLastRssBuild": 0.992
     },
     "posts": {
         "subs": [
@@ -36,7 +36,7 @@
                                         "id": "210957",
                                         "created": "2018-10-25T21:09:57.034Z",
                                         "path": "posts/2018/10/25/210957.md",
-                                        "urlHtml": "http://englishblog1.scripting.com/posts/2018/10/25/210957.md",
+                                        "urlPublic": "http://englishblog1.scripting.com/posts/2018/10/25/210957.md",
                                         "urlGitHub": "https://github.com/scripting/myEnglishBlog/blob/master/blog/posts/2018/10/25/210957.md"
                                     },
                                     {
