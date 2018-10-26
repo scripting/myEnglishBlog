@@ -12,9 +12,9 @@
     },
     "language": "en-us",
     "stats": {
-        "ctDataSaves": 547,
-        "whenLastDataSave": "2018-10-26T15:12:30.296Z",
-        "ctSecsLastDataSave": 1.177,
+        "ctDataSaves": 548,
+        "whenLastDataSave": "2018-10-26T15:14:15.296Z",
+        "ctSecsLastDataSave": 1.137,
         "ctRssBuilds": 88,
         "whenLastRssBuild": "2018-10-26T15:12:29.296Z",
         "ctSecsLastRssBuild": 0.992
@@ -27,6 +27,20 @@
                     {
                         "text": "October",
                         "subs": [
+                            {
+                                "text": "26",
+                                "subs": [
+                                    {
+                                        "title": "A post a day",
+                                        "description": "",
+                                        "id": "151413",
+                                        "created": "2018-10-26T15:14:13.779Z",
+                                        "path": "posts/2018/10/26/151413.md",
+                                        "urlPublic": "http://englishblog1.scripting.com/posts/2018/10/26/151413.md",
+                                        "urlGitHub": "https://github.com/scripting/myEnglishBlog/blob/master/blog/posts/2018/10/26/151413.md"
+                                    }
+                                ]
+                            },
                             {
                                 "text": "25",
                                 "subs": [
