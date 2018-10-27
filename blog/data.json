@@ -12,8 +12,8 @@
     },
     "language": "en-uk",
     "stats": {
-        "ctDataSaves": 570,
-        "whenLastDataSave": "2018-10-27T02:49:48.911Z",
+        "ctDataSaves": 571,
+        "whenLastDataSave": "2018-10-27T15:03:43.787Z",
         "ctSecsLastDataSave": 1.176,
         "ctRssBuilds": 99,
         "whenLastRssBuild": "2018-10-27T02:49:48.055Z",
@@ -27,6 +27,20 @@
                     {
                         "text": "October",
                         "subs": [
+                            {
+                                "text": "27",
+                                "subs": [
+                                    {
+                                        "title": "GHP now supports multiple clients",
+                                        "description": "",
+                                        "id": "150342",
+                                        "created": "2018-10-27T15:03:42.491Z",
+                                        "path": "posts/2018/10/27/150342.md",
+                                        "urlPublic": "http://englishblog1.scripting.com/posts/2018/10/27/150342.md",
+                                        "urlGitHub": "https://github.com/scripting/myEnglishBlog/blob/master/blog/posts/2018/10/27/150342.md"
+                                    }
+                                ]
+                            },
                             {
                                 "text": "26",
                                 "subs": [
