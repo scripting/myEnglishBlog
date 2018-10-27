@@ -12,9 +12,9 @@
     },
     "language": "en-uk",
     "stats": {
-        "ctDataSaves": 576,
-        "whenLastDataSave": "2018-10-27T15:04:40.007Z",
-        "ctSecsLastDataSave": 1.09,
+        "ctDataSaves": 577,
+        "whenLastDataSave": "2018-10-27T15:05:14.106Z",
+        "ctSecsLastDataSave": 1.342,
         "ctRssBuilds": 102,
         "whenLastRssBuild": "2018-10-27T15:04:39.134Z",
         "ctSecsLastRssBuild": 1.027
@@ -32,7 +32,7 @@
                                 "subs": [
                                     {
                                         "title": "GHP now supports multiple clients",
-                                        "description": "",
+                                        "description": "This is the description.",
                                         "id": "150342",
                                         "created": "2018-10-27T15:03:42.491Z",
                                         "path": "posts/2018/10/27/150342.md",
