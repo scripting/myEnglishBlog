@@ -12,9 +12,9 @@
     },
     "language": "en-uk",
     "stats": {
-        "ctDataSaves": 589,
-        "whenLastDataSave": "2018-10-28T03:01:44.178Z",
-        "ctSecsLastDataSave": 1.221,
+        "ctDataSaves": 590,
+        "whenLastDataSave": "2018-10-28T03:01:55.180Z",
+        "ctSecsLastDataSave": 1.251,
         "ctRssBuilds": 108,
         "whenLastRssBuild": "2018-10-28T03:01:43.370Z",
         "ctSecsLastRssBuild": 1.189
@@ -32,7 +32,7 @@
                                 "subs": [
                                     {
                                         "title": "Rolling right along!",
-                                        "description": "",
+                                        "description": "It surely is.",
                                         "id": "030117",
                                         "created": "2018-10-28T03:01:17.435Z",
                                         "path": "posts/2018/10/27/030117.md",
