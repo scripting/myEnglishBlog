@@ -12,8 +12,8 @@
     },
     "language": "en-uk",
     "stats": {
-        "ctDataSaves": 691,
-        "whenLastDataSave": "2018-10-30T16:19:26.580Z",
+        "ctDataSaves": 692,
+        "whenLastDataSave": "2018-10-30T16:57:24.535Z",
         "ctSecsLastDataSave": 1.233,
         "ctRssBuilds": 158,
         "whenLastRssBuild": "2018-10-30T16:19:25.992Z",
@@ -37,7 +37,7 @@
                                         "id": "160559",
                                         "created": "2018-10-30T16:05:59.301Z",
                                         "path": "posts/2018/10/30/160559.md",
-                                        "urlPublic": "http://localhost/posts/2018/10/30/160559.md",
+                                        "urlPublic": "http://englishblog1.scripting.com/posts/2018/10/30/160559.md",
                                         "urlGitHub": "https://github.com/scripting/myEnglishBlog/blob/master/blog/posts/2018/10/30/160559.md"
                                     },
                                     {
