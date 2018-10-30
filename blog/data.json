@@ -12,9 +12,9 @@
     },
     "language": "en-uk",
     "stats": {
-        "ctDataSaves": 674,
-        "whenLastDataSave": "2018-10-30T15:54:50.733Z",
-        "ctSecsLastDataSave": 1.207,
+        "ctDataSaves": 675,
+        "whenLastDataSave": "2018-10-30T15:55:02.732Z",
+        "ctSecsLastDataSave": 1.359,
         "ctRssBuilds": 150,
         "whenLastRssBuild": "2018-10-30T15:54:49.766Z",
         "ctSecsLastRssBuild": 1.028,
@@ -33,7 +33,7 @@
                                 "subs": [
                                     {
                                         "title": "The first post-turd post",
-                                        "description": "",
+                                        "description": "It had to come some time...",
                                         "id": "155446",
                                         "created": "2018-10-30T15:54:46.983Z",
                                         "path": "posts/2018/10/30/155446.md",
