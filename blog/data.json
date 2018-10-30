@@ -12,13 +12,13 @@
     },
     "language": "en-uk",
     "stats": {
-        "ctDataSaves": 686,
-        "whenLastDataSave": "2018-10-30T16:18:33.583Z",
-        "ctSecsLastDataSave": 1.983,
-        "ctRssBuilds": 155,
-        "whenLastRssBuild": "2018-10-30T16:05:14.966Z",
-        "ctSecsLastRssBuild": 1.234,
-        "urlFeed": "http://englishblog1.scripting.com/rss.xml"
+        "ctDataSaves": 687,
+        "whenLastDataSave": "2018-10-30T16:18:41.583Z",
+        "ctSecsLastDataSave": 7.654,
+        "ctRssBuilds": 156,
+        "whenLastRssBuild": "2018-10-30T16:18:41.324Z",
+        "ctSecsLastRssBuild": 6.741,
+        "urlFeed": "http://localhost/rss.xml"
     },
     "posts": {
         "subs": [
