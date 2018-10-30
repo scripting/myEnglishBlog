@@ -12,12 +12,12 @@
     },
     "language": "en-uk",
     "stats": {
-        "ctDataSaves": 688,
-        "whenLastDataSave": "2018-10-30T16:18:50.581Z",
-        "ctSecsLastDataSave": 1.121,
-        "ctRssBuilds": 156,
-        "whenLastRssBuild": "2018-10-30T16:18:41.324Z",
-        "ctSecsLastRssBuild": 6.741,
+        "ctDataSaves": 689,
+        "whenLastDataSave": "2018-10-30T16:18:56.584Z",
+        "ctSecsLastDataSave": 1.2,
+        "ctRssBuilds": 157,
+        "whenLastRssBuild": "2018-10-30T16:18:55.687Z",
+        "ctSecsLastRssBuild": 1.104,
         "urlFeed": "http://localhost/rss.xml"
     },
     "posts": {
