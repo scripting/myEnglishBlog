@@ -12,9 +12,9 @@
     },
     "language": "en-uk",
     "stats": {
-        "ctDataSaves": 743,
-        "whenLastDataSave": "2018-11-12T00:14:03.394Z",
-        "ctSecsLastDataSave": 1.049,
+        "ctDataSaves": 744,
+        "whenLastDataSave": "2018-11-12T00:14:59.170Z",
+        "ctSecsLastDataSave": 1.014,
         "ctRssBuilds": 183,
         "whenLastRssBuild": "2018-11-12T00:14:02.612Z",
         "ctSecsLastRssBuild": 1.219,
@@ -285,6 +285,15 @@
                             {
                                 "text": "11",
                                 "subs": [
+                                    {
+                                        "title": "Oy I just lost a post",
+                                        "description": "",
+                                        "id": "001457",
+                                        "created": "2018-11-12T00:14:57.527Z",
+                                        "path": "posts/2018/11/11/001457.md",
+                                        "urlPublic": "http://englishblog1.scripting.com/posts/2018/11/11/001457.md",
+                                        "urlGitHub": "https://github.com/scripting/myEnglishBlog/blob/master/blog/posts/2018/11/11/001457.md"
+                                    },
                                     {
                                         "title": "I love test posts",
                                         "description": "Want to be sure this still works",
