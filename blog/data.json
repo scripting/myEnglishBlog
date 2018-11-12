@@ -12,9 +12,9 @@
     },
     "language": "en-uk",
     "stats": {
-        "ctDataSaves": 737,
-        "whenLastDataSave": "2018-11-12T00:13:17.176Z",
-        "ctSecsLastDataSave": 0.976,
+        "ctDataSaves": 738,
+        "whenLastDataSave": "2018-11-12T00:13:23.179Z",
+        "ctSecsLastDataSave": 1.028,
         "ctRssBuilds": 180,
         "whenLastRssBuild": "2018-11-12T00:13:16.968Z",
         "ctSecsLastRssBuild": 0.793,
@@ -268,7 +268,7 @@
                                 "subs": [
                                     {
                                         "title": "I love test posts",
-                                        "description": "",
+                                        "description": "Want to be sure this still works",
                                         "id": "001313",
                                         "created": "2018-11-12T00:13:13.325Z",
                                         "path": "posts/2018/11/11/001313.md",
