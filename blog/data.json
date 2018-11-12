@@ -12,9 +12,9 @@
     },
     "language": "en-uk",
     "stats": {
-        "ctDataSaves": 745,
-        "whenLastDataSave": "2018-11-12T00:15:03.170Z",
-        "ctSecsLastDataSave": 1.113,
+        "ctDataSaves": 746,
+        "whenLastDataSave": "2018-11-12T00:15:10.170Z",
+        "ctSecsLastDataSave": 1.21,
         "ctRssBuilds": 184,
         "whenLastRssBuild": "2018-11-12T00:15:02.298Z",
         "ctSecsLastRssBuild": 1.125,
@@ -287,7 +287,7 @@
                                 "subs": [
                                     {
                                         "title": "Oy I just lost a post",
-                                        "description": "",
+                                        "description": "Who knows why it happened",
                                         "id": "001457",
                                         "created": "2018-11-12T00:14:57.527Z",
                                         "path": "posts/2018/11/11/001457.md",
